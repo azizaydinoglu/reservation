@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "466592012440",
+    "firebase_url": "https://okul-otomasyon-default-rtdb.firebaseio.com",
+    "project_id": "okul-otomasyon",
+    "storage_bucket": "okul-otomasyon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466592012440:android:7ca46d2eed9eba5db018ed",
+        "android_client_info": {
+          "package_name": "com.example.ornek_ogretmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466592012440-sqeppvtjhgg5vcc46ithfshm5sscut8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80uzIH8nOdBVuVYH4LvrW1zCg7Cpa7HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466592012440-sqeppvtjhgg5vcc46ithfshm5sscut8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466592012440:android:e33f71658f03f23bb018ed",
+        "android_client_info": {
+          "package_name": "com.example.reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466592012440-sqeppvtjhgg5vcc46ithfshm5sscut8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80uzIH8nOdBVuVYH4LvrW1zCg7Cpa7HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466592012440-sqeppvtjhgg5vcc46ithfshm5sscut8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
